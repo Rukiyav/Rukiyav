@@ -1,7 +1,6 @@
 - 👋 Hi, I’m N.Vaishnavi.
-- 🌱 I’m currently learning Python and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m Google Certified Data Analyst skilled in SQL,Tableau,Python.
+- 📫 How to reach me https://www.linkedin.com/in/vaishnavi-nellutla/
 
 <!---
 Rukiyav/Rukiyav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
