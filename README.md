@@ -1,5 +1,4 @@
 - 👋 Hi, I’m N.Vaishnavi.
-- 🌱 I’m Google Certified Data Analyst skilled in SQL,Tableau,Python.
 - 📫 How to reach me https://www.linkedin.com/in/vaishnavi-nellutla/
 
 <!---
